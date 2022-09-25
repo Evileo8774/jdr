@@ -8,6 +8,8 @@ nav{
     width: 100vw;
 
     background: #D3D3D3;
+
+    border-bottom: 3px solid #7fa7c8;
 }
 
 nav ul{

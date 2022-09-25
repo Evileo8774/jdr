@@ -6,6 +6,7 @@
         <link rel="icon" type="image/png" href="data/logo.png" />
         <!-- lier la page aux fichiers css -->
         <style type="text/css">
+            @import url("css/root.css");
             @import url("css/navbar.css");
         </style>
         <title><?php echo $title; ?></title>
